@@ -7,6 +7,7 @@ Analizand senzorii de temperatura (si optional umiditate) din fiecare camera a
 locuintei, sistemul centralei stabilizeaza, daca este necesar, temperatura si porneste 
 termostatul.
 
+#### IMPLEMENTARE
 Sunt implementate clasele TempState(temperatura) si HumState(umiditate) folosite 
 pentru a asocia unei temperaturi(umiditati) un timestamp exprimat in secunde prin
 care se afla intervalul de care apartine temperatura(umiditatea).
